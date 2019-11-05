@@ -1,1 +1,3 @@
-Hi, this is a new note! 
+Hi, this is a new note!
+I just added this line
+ 
